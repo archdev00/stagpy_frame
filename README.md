@@ -1,4 +1,4 @@
-# StagPy_Plot
+# StagPy_Frame
 A Jupyter Notebook for plotting fields from a StagYY output.
 
 ## First steps:
